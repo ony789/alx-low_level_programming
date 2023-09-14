@@ -2,9 +2,9 @@
 
 
 /**
-* main - sum up Fibonacci up to 4million
+* main - sum up even Fibonacci up to 4million
 *
-* Return : (0)
+* Return: (0)
 */
 int main(void)
 {
