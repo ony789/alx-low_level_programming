@@ -6,7 +6,8 @@
  * @n: no of elemnt to concertenate from src
  * Return: dets + n of src
  */
-char *_strncat(char *dest, char *src, int n);
+
+char *_strncat(char *dest, char *src, int n)
 {
 	int len_dest, i;
 
