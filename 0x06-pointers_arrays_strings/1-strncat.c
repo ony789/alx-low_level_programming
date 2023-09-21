@@ -4,7 +4,7 @@
  * @dest: destination string
  * @src: source string
  * @n: no of elemnt to concertenate from src
- * Return: dets + n of src
+ * Return: dest + n of src
  */
 
 char *_strncat(char *dest, char *src, int n)
