@@ -1,15 +1,11 @@
 #include "main.h"
 
 /**
- * _stract - concatenates two string
- *
- * @dest: destination string
- *
- * @src: source string
- *
- * Return: void
+ * _stract - entry point
+ * @dest: the input that we deal whit it
+ * @src: the input that we deal whit it
+ * Return: (Success)
  */
-
 char *_strcat(char *dest, char *src)
 {
 	int len1, len2, i;
