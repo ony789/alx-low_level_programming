@@ -1,9 +1,9 @@
-#include "main.h"
 #include <stdio.h>
 
 /**
  * main - entry point
- * description: computes The sum of all the multiples of 3 or 5 below 1024 (excluded)
+ * description: computes The sum
+ * of all the multiples of 3 or 5 below 1024 (excluded)
  *
  * Return : Always 0 (excluded)
  */
@@ -21,5 +21,5 @@ int main(void)
 	i++;
 	}
 	printf("%d\n", z);
-	return(0);
+	return (0);
 }
