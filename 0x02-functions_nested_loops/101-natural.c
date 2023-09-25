@@ -7,7 +7,7 @@
  *
  * Return : Always 0 (excluded)
  */
-int main( )
+int main(void)
 {
 	int i, z = 0;
 
